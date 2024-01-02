@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: MY BEAUTY (is) FULL 
+* Student Name: Kieu Quoc Viet 
 * Student ID: ID123
 
